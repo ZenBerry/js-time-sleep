@@ -8,6 +8,6 @@ So use my version as follows:
 
 `sleep(28800)`
 
-### **sleep2.js:** added an optional fps parameter to save CPU:
+### **sleep2.js:** added an optional fps parameter to save CPU
 
 `sleep(100, 24)`
